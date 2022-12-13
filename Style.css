@@ -1,0 +1,51 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    background: rgb(255, 255, 255);
+    gap: 2px;
+    margin-top: 10px;
+
+}
+p {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 170%;
+    margin-top: 20px;"
+}
+.decor {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 50%;
+    margin-bottom: 10px;
+    margin-left: 25%;
+}
+.left-line {
+      height: 5px;
+      width: 100%;
+      background-color:rgb(16, 16, 59);
+}
+.star{
+      margin: 0 10px;
+    .fa {
+          font: normal normal normal 170% FontAwesome;
+    }
+}
+.right-line {
+      height: 5px;
+      width: 100%;
+      background-color:rgb(16, 16, 59);;
+}
+.row a{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.row a img
+{
+    width: 70%;
+}
